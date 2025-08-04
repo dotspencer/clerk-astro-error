@@ -1,4 +1,6 @@
-# clerk-astro-error
+# clerk-astro-error (fixed)
+
+> I had accidentiallly placed `middleware.ts` at `src/pages` instead of at `src`. With that fix it's all working now!
 
 ### Setup
 
